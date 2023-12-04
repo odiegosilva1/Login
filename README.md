@@ -1,7 +1,7 @@
 
 # Interface de Login para Sistema de Recados
 
-Este repositório contém uma página HTML para realizar o login de usuários na API de Recados. Essa interface foi desenvolvida como parte do projeto da equipe de front-end da Growdev para atender a uma solicitação específica do cliente.
+Este repositório contém uma página HTML para realizar o login de usuários na API de Recados.
 
 ## Descrição do Projeto
 
@@ -33,7 +33,7 @@ Para garantir a segurança e privacidade dos recados, é proposto o desafio de i
 
 ## Instruções para Execução
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Clone este repositório: `git clone https://github.com/seu-usuario/Login.git`
 2. Abra o arquivo `index.html` em um navegador web.
 3. Preencha os campos necessários e teste o login.
 
@@ -41,7 +41,3 @@ Para garantir a segurança e privacidade dos recados, é proposto o desafio de i
 
 - [Documentação do `localStorage`](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)
 - Conteúdos postados no classroom para pesquisa sobre o `localStorage`.
-
----
-
-Este README fornece uma visão geral do projeto, requisitos e instruções para execução. Certifique-se de adicionar quaisquer outras instruções específicas ou detalhes adicionais conforme necessário.
